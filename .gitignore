@@ -1,0 +1,19 @@
+#### Node
+/node_modules
+.grunt
+package-lock.json
+
+#### GitBook
+/_book
+*.epub
+*.mobi
+*.pdf
+
+#### JetBrains
+/.idea
+
+#### vscode
+/.vscode
+
+#### emacs / vim
+*~

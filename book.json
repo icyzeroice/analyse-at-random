@@ -11,7 +11,8 @@
     "new-flowchart",
     "theme-comscore",
     "anchors",
-    "alerts"
+    "alerts",
+    "klipse"
   ],
   "pluginsConfig": {
     "theme-default": {
