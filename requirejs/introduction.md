@@ -1,7 +1,6 @@
 # RequireJS
 
-> require.js
->> version: 2.3.5
+> Version: 2.3.5
 
 从 `package.json` 我们知道 `RequireJS` 没有使用其他依赖包，仅有两个帮助开发的包
 

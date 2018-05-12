@@ -1,4 +1,3 @@
 # jQuery
 
-> version:
->> 3.2.2-pre
+> Version: 3.2.2-pre
